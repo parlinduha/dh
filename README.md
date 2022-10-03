@@ -1,13 +1,13 @@
-### Hi there 👋 , I'm Adhi Ariyadi!
+### Hi there 👋 , I'm Parlin Duha!
 
-Hi there, I'm **Adhi Ariyadi**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
+Hi there, I'm **Parlin Duha **, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal projects
   - ⚡ Excited to create open-source projects
   - 🌱 I’m currently learning React
   - 💕 I'm currently fall in love with Laravel
-  - 📫 You can reach me at <a href="mailto:adhiariyadi40@gmail.com">adhiariyadi40@gmail.com</a>
+  - 📫 You can reach me at <a href="mailto:dhparlin@gmail.com">dhparlin@gmail.com</a>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=adhiariyadi&show_icons=true&include_all_commits=true&count_private=true" alt="adhiariyadi" height="200" />
