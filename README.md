@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Parlin Duha!
 
-Hi there, I'm **Parlin Duha **, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
+Hi there, I'm **Parlin Duha **, a **Web Developer** 🚀 from Indonesia.
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal projects
@@ -10,8 +10,8 @@ Hi there, I'm **Parlin Duha **, a **Web Developer** and a **Software Engineering
   - 📫 You can reach me at <a href="mailto:dhparlin@gmail.com">dhparlin@gmail.com</a>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=adhiariyadi&show_icons=true&include_all_commits=true&count_private=true" alt="adhiariyadi" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhiariyadi&layout=compact&langs_count=10" alt="adhiariyadi" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=parlinduha&show_icons=true&include_all_commits=true&count_private=true" alt="parlinduha" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parlinduha&layout=compact&langs_count=10" alt="parlinduha" height="200" />
 </p>
 
 ### Let's connect!
