@@ -1,13 +1,5 @@
+Welcome to my GitHub profile! I am a software developer with passion and dedication in creating creative and efficient solutions. I enjoy collaborating with teams to deliver high-quality products. Throughout my journey as a developer, I continuously learn and explore the latest technologies. I am committed to writing clean, well-structured, and easily understandable code. Feel free to explore my repositories and don't hesitate to get in touch with me https://github.com/parlinduha for projects or collaborations!
 
-
-Hi there, I'm **Parlin Duha **,  🚀 from Indonesia.
-
-### Talking about Personal Stuffs:
-  - 🔭 I’m currently working on my personal projects
-  - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning React
-  - 💕 I'm currently fall in love with Laravel
-  - 📫 You can contact me at <a href="mailto:dhparlin@gmail.com">dhparlin@gmail.com</a>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gisnaefde&label=Profile%20views&color=0e75b6&style=flat" alt="gisnaefde" /> </p>
 <p>
