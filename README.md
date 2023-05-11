@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Parlin Duha!
+
 
 Hi there, I'm **Parlin Duha **,  🚀 from Indonesia.
 
@@ -7,7 +7,7 @@ Hi there, I'm **Parlin Duha **,  🚀 from Indonesia.
   - ⚡ Excited to create open-source projects
   - 🌱 I’m currently learning React
   - 💕 I'm currently fall in love with Laravel
-  - 📫 You can reach me at <a href="mailto:dhparlin@gmail.com">dhparlin@gmail.com</a>
+  - 📫 You can contact me at <a href="mailto:dhparlin@gmail.com">dhparlin@gmail.com</a>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gisnaefde&label=Profile%20views&color=0e75b6&style=flat" alt="gisnaefde" /> </p>
 <p>
