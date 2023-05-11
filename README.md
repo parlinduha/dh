@@ -2,6 +2,8 @@ Welcome to my GitHub profile! I am a software developer with passion and dedicat
 
 Let's connect on Linkedin! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perlindungan-duha-79466a154/)
 
+I'd love to collaborate and connect with you! Email me at dhparlin@gmail.com.
+Don't hesitate to message me 🤝 Cheers!🥂
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parlinduha&label=Profile%20views&color=0e75b6&style=flat" alt="parlinduha" /> </p>
 
