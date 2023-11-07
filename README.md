@@ -11,8 +11,7 @@ Don't hesitate to message me 🤝 Cheers!🥂
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=parlinduha&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green" alt="parlinduha" height="200" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parlinduha&theme=blue-green&layout=compact)](https://github.com/parlinduha/github-readme-stats"  height="200" />
-</p>
+  </p>
 
 
 
